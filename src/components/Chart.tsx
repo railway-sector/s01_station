@@ -318,10 +318,10 @@ const Chart = () => {
         }}
       >
         <img
-          src="https://EijiGorilla.github.io/Symbols/Viaduct_Images/Viaduct_All_Logo.svg"
-          alt="Land Logo"
-          height={"55px"}
-          width={"55px"}
+          src="https://EijiGorilla.github.io/Symbols/Station_Structures_icon.svg"
+          alt="Station Structure Logo"
+          height={"60px"}
+          width={"60px"}
           style={{ paddingTop: "30px", paddingLeft: "15px" }}
         />
         <dl style={{ alignItems: "center" }}>
